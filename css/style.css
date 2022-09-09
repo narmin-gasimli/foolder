@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    width: 1500px;
+    height: 900px;
+}
+.none{
+    width: 1200px;
+    height: 90px;
+    margin: 5px 0px 5px 30px;
+
+}
+.ntwo{
+    width: 290px;
+    height: 680px;
+    font-size: 30px;
+    margin: 5px 10px 10px 30px;
+    float: left;
+   
+}
+.nthree{
+    width: 890px;
+    height: 680px;
+    font-size: 30px;
+    float: left;
+    margin: 5px 0px 10px 10px;
+}
+.nfour{
+    width: 1200px;
+    height: 90px;
+    margin: 10px 0px 0px 30px;
+}
+.nall{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size: 50px;
+    background: #e3e3e3;
+    border-radius: 20px;
+}
